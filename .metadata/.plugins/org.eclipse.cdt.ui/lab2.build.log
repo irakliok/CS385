@@ -1,0 +1,6 @@
+19:13:16 **** Incremental Build of configuration Default for project lab2 ****
+make all 
+g++ -g -std=c++17 -Wall -Werror -pedantic-errors -fmessage-length=0 student.cpp -o student
+
+19:13:17 Build Finished. 0 errors, 0 warnings. (took 888ms)
+

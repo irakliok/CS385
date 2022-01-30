@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.cdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="org.eclipse.cdt.core.cxxSource.contenttype_context" deleted\="false" description\="Default template for newly created C++ source files" enabled\="true" id\="org.eclipse.cdt.ui.text.codetemplates.cppsourcefile" name\="Default C++ source template">/******************************************************************************* \n * Name          \: helloworld.cpp \n * Author        \: Irakli Okruashvili\n * Date          \: 1/27/22\n * Description   \: Basic Hello World program \n * Pledge        \: I pledge my honor that I have abided by the Stevens Honor System - I.O.\n ******************************************************************************/ </template></templates>
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
